@@ -23,6 +23,8 @@ During your interview you will need to answer questions about how you found the 
 
 #### NOTE
 * Please do not format the code, only make changes to fix the code, easier for reviewers to see the changes made.
+* The app was built and tested on Node version v16.14.2, adviced to use the same node version.
+
 
 #### Pro tip
 * You'll notice the animated transitions in the app are not very smooth. The animation itself is *not* the problem.
